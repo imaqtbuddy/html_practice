@@ -1,0 +1,73 @@
+body
+{
+  font-size: 6pt;
+  font-family: Arial;
+}
+
+.canvas
+{
+  width:100%;
+}
+
+.wide_input
+{
+  width: 90%;
+}
+
+
+title
+{
+  font-style: bold;
+  font-size: 11pt;
+}
+
+ol {
+  margin: 0;
+  padding: 10px;
+}
+h1
+{
+font-style: bold;
+margin: 0;
+margin-bottom: 0;
+text-align:left;
+}
+
+.canvas_section
+{
+border: thin black solid;
+}
+
+u1
+{
+margin:0;
+padding: 0;
+}
+
+h3
+{
+text-transform: uppercase;
+font-size: 7pt;
+margin-bottom: 0;
+}
+
+.sublist
+{
+  font-style: italic;
+}
+
+h4
+{
+margin: 0;
+}
+
+p
+{
+margin: 0;
+}
+td {
+  vertical-align: top;
+}
+
+
+
